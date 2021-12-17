@@ -123,7 +123,8 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC6() {
-
+               System.out.println("Hola, soc Samuel Pastor, company de la vostra clase!");
+	       System.out.println("Vos desitje bon nadal, i feliç any nou!");
 	}
 
 	// FILA 2

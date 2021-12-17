@@ -35,8 +35,8 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 ## POSA EL TEU NOM I EN LA SEGÜENT LÍNIA LA DESCRIPCIÓ DE LA TASCA
 
 
-#### AlumneFila1 PC1: Samuel Pastor
-Soc Samuel Pastor, he afejit el mètode amb el missatge nadalenc.
+#### AlumneFila1 PC1: 
+
 
 #### AlumneFila1 PC2:
 
@@ -50,7 +50,8 @@ Soc Samuel Pastor, he afejit el mètode amb el missatge nadalenc.
 #### AlumneFila1 PC5:
 
 
-#### AlumneFila1 PC6:
+#### AlumneFila1 PC6: Samuel Pastor
+Soc Samuel Pastor, he afejit el mètode amb el missatge nadalenc.
 
 
 #### AlumneFila2 PC1:
